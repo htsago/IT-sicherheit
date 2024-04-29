@@ -1,0 +1,8 @@
+Flask==2.0.1
+Flask-HTTPAuth==4.3.0
+PyGPGME==1.13.0
+Werkzeug==2.0.1
+itsdangerous==2.0.1
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+pycparser==2.20
