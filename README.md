@@ -21,6 +21,14 @@ Anforderungen
 Installation
 ------------
 
+1. Klonen Sie das Repository:
+```bash
+git clone https://github.com/htsago/IT-sicherheit.git
+```
+oder 
+```bash
+git clone git@github.com:htsago/IT-sicherheit.git
+```
 1. Navigieren Sie zum Projektverzeichnis:
 ```bash
 cd IT-Sicherheit
